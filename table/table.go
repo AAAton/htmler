@@ -1,9 +1,6 @@
 package table
 
-import (
-	"axium/html"
-	"fmt"
-)
+import "fmt"
 
 // Table holds the table data
 type Table struct {

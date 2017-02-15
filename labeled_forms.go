@@ -1,4 +1,4 @@
-package html
+package htmler
 
 //LabelString creates a <input type="string"/> with wrappers. Expects label, name, value, attributes
 func LabelString(label string, args ...interface{}) string {
